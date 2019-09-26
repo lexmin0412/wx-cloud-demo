@@ -69,6 +69,5 @@ jobs:
         git branch -l
 
         echo 'git push'
-        # git push -f https://cathe-zhang:${{ secrets.GITHUB_TOKEN }}@github.com/cathe-zhang/blog.git master:gh-pages
-
+        
         git push -f origin HEAD:master
