@@ -37,8 +37,8 @@ jobs:
         echo 'ls 查看dist文件夹下的所有文件'
         ls
 
-        # echo 'git init'
-        # git init
+        echo 'git init'
+        git init
         
         echo 'git config'
         git config --global user.name ${{ secrets.USER_NAME }}
