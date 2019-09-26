@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wx-cloud-demo/static/css/main.825511d3.chunk.css",
+    "main.js": "/wx-cloud-demo/static/js/main.17b0893e.chunk.js",
+    "main.js.map": "/wx-cloud-demo/static/js/main.17b0893e.chunk.js.map",
+    "runtime-main.js": "/wx-cloud-demo/static/js/runtime-main.2dcafb00.js",
+    "runtime-main.js.map": "/wx-cloud-demo/static/js/runtime-main.2dcafb00.js.map",
+    "static/js/2.b5b6fe38.chunk.js": "/wx-cloud-demo/static/js/2.b5b6fe38.chunk.js",
+    "static/js/2.b5b6fe38.chunk.js.map": "/wx-cloud-demo/static/js/2.b5b6fe38.chunk.js.map",
+    "index.html": "/wx-cloud-demo/index.html",
+    "precache-manifest.04ac1218d75d79bdcee0cffc3cae35e6.js": "/wx-cloud-demo/precache-manifest.04ac1218d75d79bdcee0cffc3cae35e6.js",
+    "service-worker.js": "/wx-cloud-demo/service-worker.js",
+    "static/css/main.825511d3.chunk.css.map": "/wx-cloud-demo/static/css/main.825511d3.chunk.css.map",
+    "static/media/logo.svg": "/wx-cloud-demo/static/media/logo.25bf045c.svg"
+  }
+}
