@@ -5,7 +5,7 @@ on:
   push:
     # 指定触发指定事件的分支 仅master触发
     branches:
-      - master
+      - dev
 jobs:
   build:
 
@@ -71,4 +71,4 @@ jobs:
         echo 'git push'
         # git push -f https://cathe-zhang:${{ secrets.GITHUB_TOKEN }}@github.com/cathe-zhang/blog.git master:gh-pages
 
-        git push -f origin master:gh-pages
+        git push -f origin HEAD:master
